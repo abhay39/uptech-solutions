@@ -21,16 +21,22 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## Learn More
+Here i've attached the screenshot of my project.
 
-To learn more about Next.js, take a look at the following resources:
+![image](https://github.com/abhay39/uptech-solutions/assets/84112755/1d6f5e1e-63ce-4404-8825-758c0c7ba9bb)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![image](https://github.com/abhay39/uptech-solutions/assets/84112755/394c3970-0341-4f5d-b426-40fb1015fa70)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![image](https://github.com/abhay39/uptech-solutions/assets/84112755/9e7a19c6-6026-4c8c-b402-5a0b968028cf)
 
-## Deploy on Vercel
+![image](https://github.com/abhay39/uptech-solutions/assets/84112755/980e32a5-2cde-450b-9167-1fa7493b7aab)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![image](https://github.com/abhay39/uptech-solutions/assets/84112755/871583bf-91b1-448e-9239-4d035fc9ef1a)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![image](https://github.com/abhay39/uptech-solutions/assets/84112755/f62d7636-7f12-4c5f-945f-ae02d5723b24)
+
+![image](https://github.com/abhay39/uptech-solutions/assets/84112755/90b9490d-4465-4cbb-aab2-dab7e59afe45)
+
+![image](https://github.com/abhay39/uptech-solutions/assets/84112755/0e19ad74-0da0-4b69-ae49-a2439c846289)
+
+![image](https://github.com/abhay39/uptech-solutions/assets/84112755/a78232e6-1a51-4cf6-8c04-6ea73d10b916)
